@@ -1,0 +1,28 @@
+{
+  "user": [
+    {
+      "id": "admin",
+      "name": "admin",
+      "password": "Narender",
+      "email": "admin@gmail.com",
+      "gender": "male",
+      "role": "admin",
+      "isActive": true
+    },
+    {
+      "userName": "admin",
+      "password": "Narender",
+      "id": "1n64sll"
+    },
+    {
+      "userName": "admin",
+      "password": "Narender",
+      "id": "NbMPtcr"
+    },
+    {
+      "userName": "admin",
+      "password": "Narender",
+      "id": "iZyosBZ"
+    }
+  ]
+}
