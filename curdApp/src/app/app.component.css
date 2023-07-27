@@ -1,4 +1,4 @@
-a[_ngcontent-ng-c2136420034], a[_ngcontent-ng-c2136420034]:visited, a[_ngcontent-ng-c2136420034]:hover   {
+:host ::ng-deep .navlinks   {
     color: black;
     margin-left: 50px;
 }

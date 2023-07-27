@@ -166,12 +166,13 @@
   a,
   a:visited,
   a:hover {
-    color: #1976d2;
+    color: white;
     text-decoration: none;
+    margin-left: 70px;
   }
 
   a:hover {
-    color: #125699;
+    color: white;
   }
 
   .terminal {
@@ -303,7 +304,7 @@
 </style>
 
 <!-- Toolbar -->
-<div class="toolbar" role="banner">
+<div class="toolbar"  *ngIf="isMenurequired" role="banner">
   <img
     width="40"
     alt="Angular Logo"
